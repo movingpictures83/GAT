@@ -1,0 +1,40 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: GAT
+Loading cora dataset...
+Epoch: 0001 loss_train: 1.9554 acc_train: 0.0571 loss_val: 1.9405 acc_val: 0.2867 time: 3.1907s
+Epoch: 0002 loss_train: 1.9384 acc_train: 0.2714 loss_val: 1.9313 acc_val: 0.5100 time: 3.0730s
+Epoch: 0003 loss_train: 1.9322 acc_train: 0.2786 loss_val: 1.9222 acc_val: 0.5967 time: 3.0827s
+Epoch: 0004 loss_train: 1.9116 acc_train: 0.4571 loss_val: 1.9131 acc_val: 0.6100 time: 3.1511s
+Epoch: 0005 loss_train: 1.9006 acc_train: 0.5000 loss_val: 1.9039 acc_val: 0.6067 time: 2.7933s
+Epoch: 0006 loss_train: 1.8943 acc_train: 0.4857 loss_val: 1.8948 acc_val: 0.6200 time: 3.3589s
+Epoch: 0007 loss_train: 1.8843 acc_train: 0.4929 loss_val: 1.8855 acc_val: 0.6300 time: 3.0916s
+Epoch: 0008 loss_train: 1.8850 acc_train: 0.5214 loss_val: 1.8760 acc_val: 0.6233 time: 3.0349s
+Epoch: 0009 loss_train: 1.8628 acc_train: 0.5786 loss_val: 1.8664 acc_val: 0.6267 time: 3.1572s
+Epoch: 0010 loss_train: 1.8538 acc_train: 0.5429 loss_val: 1.8566 acc_val: 0.6233 time: 3.1819s
+Optimization Finished!
+Total time elapsed: 31.1483s
+Loading 9th epoch
+Test set results: loss= 1.8688 accuracy= 0.4970
